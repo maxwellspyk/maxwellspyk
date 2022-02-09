@@ -1,1 +1,1 @@
-I make websites and train machines to predict stuff.
+I make Apps and train machines to predict stuff.
